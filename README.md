@@ -1,4 +1,8 @@
 # ML@LSE Bootcamps - Michaelmas Term 2018
+_Materials are written by Adrien Couturier._
+
+### Useful Resources for Maximising your Learning from our Bootcamps
+1. [Introduction to Statistical Learning by Hastie et al.](https://www-bcf.usc.edu/~gareth/ISL/)
 
 ### Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03
 
@@ -13,14 +17,24 @@ As we only have one hour, we will try to focus on:
 
 The machine learning wave is coming, so join us to ride the wave!
 
-### Bootcamp 1: Introduction to Machine Learning
+### Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03
+
+This first workshop aims to cover the general principles of machine learning theories and techniques. 
+
+We also aim to help out with the installation of the Jupyter Notebook development environment, which we will be using as our implementation environment for all subsequent bootcamps. 
+
+If time permits, we may also introduce some of the packages that we will be using frequently for subsequent bootcamps, such as pandas, numpy and sklearn.
+
+**Objectives:** Understand the basics concepts and notions underpinning machine learning theories and techniques.
+
+**Requirements:** Basic definitions of random variable, expectation and variance. Basic knowledge of Linear Algebra may be useful.
+
+**Keywords:** Dataset, Number of Observations, Dimensionality, Machine learning techniques, High dimensional statistics, Statistical pattern, Supervised Learning, Unsupervised learning, Learning Function, Inputs and Outputs, Training Data, Test Data, Irreducible Error, Regression, Classification, Loss, Risk, Empirical Risk, MSE, MER, Testing Errors, Overfitting, Generalization, Training vs. Testing Errors, Bias- Variance Trade-off.
 
 ### Bootcamp 2: Tree-Based Methods
 
 ### Bootcamp 3: Support Vector Machines 
 
-### Bootcamp 4: Introduction to Unsupervised Learning Methods (PCA & Clustering)
+### Bootcamp 4: Introduction to Unsupervised Learning Methods
 
-### Bootcamp 5: Introduction to Neural Networks
-
-_Details about whatever is covered by each session will be released as we iteratively develop this repository_
+_Details about whatever is covered by each session will be released as we develop this repository_
