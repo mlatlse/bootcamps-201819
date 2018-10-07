@@ -17,7 +17,7 @@ As we only have one hour, we will try to focus on:
 
 The machine learning wave is coming, so join us to ride the wave!
 
-### Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03
+### [Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03](/Bootcamp%201)
 
 This first workshop aims to cover the general principles of machine learning theories and techniques. 
 
@@ -30,6 +30,8 @@ If time permits, we may also introduce some of the packages that we will be usin
 **Requirements:** Basic definitions of random variable, expectation and variance. Basic knowledge of Linear Algebra may be useful.
 
 **Keywords:** Dataset, Number of Observations, Dimensionality, Machine learning techniques, High dimensional statistics, Statistical pattern, Supervised Learning, Unsupervised learning, Learning Function, Inputs and Outputs, Training Data, Test Data, Irreducible Error, Regression, Classification, Loss, Risk, Empirical Risk, MSE, MER, Testing Errors, Overfitting, Generalization, Training vs. Testing Errors, Bias- Variance Trade-off.
+
+
 
 ### Bootcamp 2: Tree-Based Methods
 
