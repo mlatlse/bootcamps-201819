@@ -4,7 +4,7 @@ _Materials are written by Adrien Couturier._
 ### Useful Resources for Maximising your Learning from our Bootcamps
 1. [Introduction to Statistical Learning by Hastie et al.](https://www-bcf.usc.edu/~gareth/ISL/)
 
-### Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03
+### [Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03](/give-it-a-go)
 
 This will be a great opportunity for all students who are interested to get involved with ML@LSE to get to know the committee as well as the slew of events we have lined up for the upcoming Academic Year. 
 
