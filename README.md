@@ -34,10 +34,12 @@ If time permits, we may also introduce some of the packages that we will be usin
 
 **What is Anaconda?** 
 Anaconda is a python and R distribution. It aims to provide everything you need (python wise) for data science "out of the box".
+
 It includes:
 - The core python language
-- 100+ python "packages" (libraries)
+- 100+ python "packages" (libraries) such as scikitlearn, numpy and pandas 
 - Spyder (IDE/editor - like pycharm) and Jupyter
+
 [**Guide to Installing Anaconda Distribution**](https://docs.anaconda.com/anaconda/install/)
 
 
