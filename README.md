@@ -32,6 +32,15 @@ If time permits, we may also introduce some of the packages that we will be usin
 **Keywords:** Dataset, Number of Observations, Dimensionality, Machine learning techniques, High dimensional statistics, Statistical pattern, Supervised Learning, Unsupervised learning, Learning Function, Inputs and Outputs, Training Data, Test Data, Irreducible Error, Regression, Classification, Loss, Risk, Empirical Risk, MSE, MER, Testing Errors, Overfitting, Generalization, Training vs. Testing Errors, Bias- Variance Trade-off.
 
 
+**What is Anaconda?** 
+Anaconda is a python and R distribution. It aims to provide everything you need (python wise) for data science "out of the box".
+It includes:
+- The core python language
+- 100+ python "packages" (libraries)
+- Spyder (IDE/editor - like pycharm) and Jupyter
+[**Guide to Installing Anaconda Distribution**](https://docs.anaconda.com/anaconda/install/)
+
+
 
 ### Bootcamp 2: Tree-Based Methods
 
