@@ -29,6 +29,8 @@ We also aim to help out with the installation of the Jupyter Notebook developmen
 
 If time permits, we may also introduce some of the packages that we will be using frequently for subsequent bootcamps, such as pandas, numpy and sklearn.
 
+##### Theory 
+
 **Objectives:** Understand the basics concepts and notions underpinning machine learning theories and techniques.
 
 **Requirements:** Basic definitions of random variable, expectation and variance. Basic knowledge of Linear Algebra may be useful.
@@ -54,11 +56,19 @@ This bootcamp aims to introduce members to a category of commonly used machine l
 
 We will assume that all attending members have installed the Anaconda Distribution on their computer. Otherwise, you may follow the instructions [here](https://docs.anaconda.com/anaconda/install/) to download it.
 
+##### Theory 
+
 **Objectives:** Understand what tree-based methods are and how they are buildt. Understand how Cross-Validation can be applied to decision trees. Understand how ensemble methods can improve the power of our techniques.
 
 **Requirements:** Introductory Bootcamp (you can read the slides if you didn’t attend). Familiarity with the notions of independence and correlation may be useful.
 
 **Keywords:** Decision tree, Nodes, Recursive binary splitting, Pruning, Cost complexity, Bootstrapping, Bagging, Random forest, Boosting.
+
+##### Implementation 
+
+We will build a Random Forest model to predict survivorship in the Titanic dataset.
+
+---
 
 ### Bootcamp 3: Support Vector Machines 
 
