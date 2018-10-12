@@ -48,7 +48,7 @@ It includes:
 [**Guide to Installing Anaconda Distribution**](https://docs.anaconda.com/anaconda/install/)
 
 
-## [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1600, CLM.7.02](/Bootcamp%202)
+## [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1700, CLM.7.02](/Bootcamp%202)
 
 This bootcamp aims to introduce members to a category of commonly used machine learning models known as tree-based models. 
 
