@@ -4,7 +4,6 @@ _Materials are written by Adrien Couturier._
 ## Useful Resources for Maximising your Learning from our Bootcamps
 1. [Introduction to Statistical Learning by Hastie et al.](https://www-bcf.usc.edu/~gareth/ISL/)
 
---- 
 
 ## [Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03](/give-it-a-go)
 
@@ -19,7 +18,7 @@ As we only have one hour, we will try to focus on:
 
 The machine learning wave is coming, so join us to ride the wave!
 
----
+
 
 ## [Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03](/Bootcamp%201)
 
@@ -48,7 +47,6 @@ It includes:
 
 [**Guide to Installing Anaconda Distribution**](https://docs.anaconda.com/anaconda/install/)
 
----
 
 ## [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1600, CLM.7.02](/Bootcamp%202)
 
@@ -68,7 +66,6 @@ We will assume that all attending members have installed the Anaconda Distributi
 
 We will build a Random Forest model to predict survivorship in the Titanic dataset.
 
----
 
 ## Bootcamp 3: Support Vector Machines 
 
