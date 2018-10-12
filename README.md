@@ -48,7 +48,17 @@ It includes:
 
 ---
 
-### Bootcamp 2: Tree-Based Methods
+### [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1600, CLM.7.02](/Bootcamp%202)
+
+This bootcamp aims to introduce members to a category of commonly used machine learning models known as tree-based models. 
+
+We will assume that all attending members have installed the Anaconda Distribution on their computer. Otherwise, you may follow the instructions [here](https://docs.anaconda.com/anaconda/install/) to download it.
+
+**Objectives:** Understand what tree-based methods are and how they are buildt. Understand how Cross-Validation can be applied to decision trees. Understand how ensemble methods can improve the power of our techniques.
+
+**Requirements:** Introductory Bootcamp (you can read the slides if you didn’t attend). Familiarity with the notions of independence and correlation may be useful.
+
+**Keywords:** Decision tree, Nodes, Recursive binary splitting, Pruning, Cost complexity, Bootstrapping, Bagging, Random forest, Boosting.
 
 ### Bootcamp 3: Support Vector Machines 
 
