@@ -1,12 +1,12 @@
 # ML@LSE Bootcamps - Michaelmas Term 2018
 _Materials are written by Adrien Couturier._
 
-### Useful Resources for Maximising your Learning from our Bootcamps
+## Useful Resources for Maximising your Learning from our Bootcamps
 1. [Introduction to Statistical Learning by Hastie et al.](https://www-bcf.usc.edu/~gareth/ISL/)
 
 --- 
 
-### [Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03](/give-it-a-go)
+## [Bootcamp Taster Session & Get to Know the Committee - 26 September 2018, PAR2.03](/give-it-a-go)
 
 This will be a great opportunity for all students who are interested to get involved with ML@LSE to get to know the committee as well as the slew of events we have lined up for the upcoming Academic Year. 
 
@@ -21,7 +21,7 @@ The machine learning wave is coming, so join us to ride the wave!
 
 ---
 
-### [Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03](/Bootcamp%201)
+## [Bootcamp 1: Introduction to Machine Learning - 10 October 2018, 1600 - 1800, PAR.LG.03](/Bootcamp%201)
 
 This first workshop aims to cover the general principles of machine learning theories and techniques. 
 
@@ -29,7 +29,7 @@ We also aim to help out with the installation of the Jupyter Notebook developmen
 
 If time permits, we may also introduce some of the packages that we will be using frequently for subsequent bootcamps, such as pandas, numpy and sklearn.
 
-##### Theory 
+### Theory 
 
 **Objectives:** Understand the basics concepts and notions underpinning machine learning theories and techniques.
 
@@ -50,13 +50,13 @@ It includes:
 
 ---
 
-### [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1600, CLM.7.02](/Bootcamp%202)
+## [Bootcamp 2: Tree-Based Models - 17 October 2018, 1500 - 1600, CLM.7.02](/Bootcamp%202)
 
 This bootcamp aims to introduce members to a category of commonly used machine learning models known as tree-based models. 
 
 We will assume that all attending members have installed the Anaconda Distribution on their computer. Otherwise, you may follow the instructions [here](https://docs.anaconda.com/anaconda/install/) to download it.
 
-##### Theory 
+### Theory 
 
 **Objectives:** Understand what tree-based methods are and how they are buildt. Understand how Cross-Validation can be applied to decision trees. Understand how ensemble methods can improve the power of our techniques.
 
@@ -64,14 +64,14 @@ We will assume that all attending members have installed the Anaconda Distributi
 
 **Keywords:** Decision tree, Nodes, Recursive binary splitting, Pruning, Cost complexity, Bootstrapping, Bagging, Random forest, Boosting.
 
-##### Implementation 
+### Implementation 
 
 We will build a Random Forest model to predict survivorship in the Titanic dataset.
 
 ---
 
-### Bootcamp 3: Support Vector Machines 
+## Bootcamp 3: Support Vector Machines 
 
-### Bootcamp 4: Introduction to Unsupervised Learning Methods
+## Bootcamp 4: Introduction to Unsupervised Learning Methods
 
 _Details about whatever is covered by each session will be released as we develop this repository_
