@@ -67,7 +67,18 @@ We will assume that all attending members have installed the Anaconda Distributi
 We will build a Random Forest model to predict survivorship in the Titanic dataset.
 
 
-## Bootcamp 3: Support Vector Machines 
+## [Bootcamp 3: Support Vector Machines - 31 October 2018, 1500 - 1700, OLD.4.10](/Bootcamp%203)
+
+**Objectives:** Understand linear classification methods. Understand their generalization to non-linear classification. Get a sense of the Kernel idea and Support Vector Machines.
+
+**Requirements:** Introductory Bootcamp (you can read the slides if you didn’t attend). Although not necessary, familiarity with notions of linear algebra may greatly help: hyperplanes, dot and inner products. Some familiarity with constrained optimization may help.
+
+**Keywords:** Hyperplane, Margin, Maximal Margin Classifier, Soft Margin Classifier, Non-linear Boundaries, Inner Product, Kernels, Sup- port Vector Machines.
+
+### Implementation 
+
+We will build a Support Vector Machine to classify bank customers' risk of defaulting on their credit card.
+
 
 ## Bootcamp 4: Introduction to Unsupervised Learning Methods
 
