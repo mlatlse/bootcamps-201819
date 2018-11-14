@@ -80,6 +80,17 @@ We will build a Random Forest model to predict survivorship in the Titanic datas
 We will build a Support Vector Machine to classify bank customers' risk of defaulting on their credit card.
 
 
-## Bootcamp 4: Introduction to Unsupervised Learning Methods
+## [Bootcamp 4: Introduction to Unsupervised Learning Methods - 14 November 2018, 1500 - 1700, NAB.2.16](/Bootcamp%204)
+
+**Objectives:**  Understand two important unsupervised learning methods: Principal Component Analysis and Clustering. Understand the difference between k-means clustering and Hierarchical Clustering.
+
+**Requirements:**  Introductory Bootcamp (you can read the slides if you didn’t attend). Although not necessary, familiarity with notions of linear algebra may help: inner product and orthogonal projections. Strong understanding of the summation operator (􏰀ni=1, 􏰀j∈C ) may help.
+
+**Keywords:**  PCA, Loading vector, Principal Components, Propor- tion of variance explained, Clustering, k-meanS Clustering, Within- cluster Variation, Hierarchical Clustering, Minimal Intercluster Dissim- ilarity, Dendrogram.
+
+### Implementation 
+
+We will use PCA and Clustering Techniques to segment an unlabelled customer dataset into meaningful sub-groups.
+
 
 _Details about whatever is covered by each session will be released as we develop this repository_
