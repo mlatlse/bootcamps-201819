@@ -92,5 +92,14 @@ We will build a Support Vector Machine to classify bank customers' risk of defau
 
 We will use PCA and Clustering Techniques to segment an unlabelled customer dataset into meaningful sub-groups.
 
+## [Bootcamp 5: Introduction to Feedforward Neural Networks - 28 November 2018, 1500 - 1700, NAB.2.14](/Bootcamp%205)
 
-_Details about whatever is covered by each session will be released as we develop this repository_
+**Objectives:** Understand the structure of feedforward neural net- works. Understand how feedworward neural networks are trained using backpropagation.
+
+**Requirements:**  Introductory Bootcamp (you can read the slides if you didn’t attend). Although not necessary, familiarity with partial derivatives, the chain rule and the gradient of a multivariate function may help.
+
+**Keywords:**   Perceptron, Weights, Biases, Activation function, Sig- moid activation function, Neural Network, Gradient descent, Backprop- agation.
+
+### Implementation 
+
+We will use the Keras package to implement a simple neural network on the canonical MNIST dataset.
