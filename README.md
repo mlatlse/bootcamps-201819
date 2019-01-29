@@ -103,3 +103,10 @@ We will use PCA and Clustering Techniques to segment an unlabelled customer data
 ### Implementation 
 
 We will use the Keras package to implement a simple neural network on the canonical MNIST dataset.
+
+
+## [Bootcamp 6: Natural Language Processing - 30 Jan 2019, 1500 - 1700, NAB.1.19](/Bootcamp%206)
+
+**Objectives:** Understand how to extract features from text and machine learning can be applied to text data, and how to scrape text data from the web 
+
+**Requirements:**  Introductory Bootcamp (you can read the slides if you didn’t attend), and basic Python programming skills
