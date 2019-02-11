@@ -1,5 +1,6 @@
-# ML@LSE Bootcamps - Michaelmas Term 2018
+# ML@LSE Bootcamps - Michaelmas + Lent Term 2018
 _Materials are written by Adrien Couturier._
+_Taught by Ivan Sayapin, Jiong Wei Lua and Adrien Couturier_
 
 ## Useful Resources for Maximising your Learning from our Bootcamps
 1. [Introduction to Statistical Learning by Hastie et al.](https://www-bcf.usc.edu/~gareth/ISL/)
@@ -108,5 +109,11 @@ We will use the Keras package to implement a simple neural network on the canoni
 ## [Bootcamp 6: Natural Language Processing - 30 Jan 2019, 1500 - 1700, NAB.1.19](/Bootcamp%206)
 
 **Objectives:** Understand how to extract features from text and machine learning can be applied to text data, and how to scrape text data from the web 
+
+**Requirements:**  Introductory Bootcamp (you can read the slides if you didn’t attend), and basic Python programming skills
+
+## [Bootcamp 7: Explainable Machine Learning with LIME - 13 Feb 2019, 1500 - 1700, OLD.1.27](/Bootcamp%207)
+
+**Objectives:** Understand how the LIME technique works in terms of intuition, and be able to leverage the LIME package in Python for your own uses. 
 
 **Requirements:**  Introductory Bootcamp (you can read the slides if you didn’t attend), and basic Python programming skills
